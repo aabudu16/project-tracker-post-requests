@@ -20,6 +20,7 @@
 		543AB139232A7463005B0E32 /* Project.swift in Sources */ = {isa = PBXBuildFile; fileRef = 543AB12F2327F803005B0E32 /* Project.swift */; };
 		543AB13A232A749A005B0E32 /* Project.swift in Sources */ = {isa = PBXBuildFile; fileRef = 543AB12F2327F803005B0E32 /* Project.swift */; };
 		8500B663232A877F00F6378F /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8500B662232A877F00F6378F /* Secrets.swift */; };
+		8500B667232A9B9500F6378F /* CreateProjectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8500B666232A9B9500F6378F /* CreateProjectViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		543AB135232A73B7005B0E32 /* NetworkHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkHelper.swift; sourceTree = "<group>"; };
 		543AB137232A7414005B0E32 /* ProjectAPIClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectAPIClient.swift; sourceTree = "<group>"; };
 		8500B662232A877F00F6378F /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
+		8500B666232A9B9500F6378F /* CreateProjectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateProjectViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				543AB135232A73B7005B0E32 /* NetworkHelper.swift */,
 				543AB137232A7414005B0E32 /* ProjectAPIClient.swift */,
 				543AB1112327F67A005B0E32 /* Main.storyboard */,
+				8500B666232A9B9500F6378F /* CreateProjectViewController.swift */,
 				543AB1142327F67C005B0E32 /* Assets.xcassets */,
 				543AB1162327F67C005B0E32 /* LaunchScreen.storyboard */,
 				543AB1192327F67C005B0E32 /* Info.plist */,
@@ -219,6 +222,7 @@
 			files = (
 				543AB134232A738B005B0E32 /* AppError.swift in Sources */,
 				8500B663232A877F00F6378F /* Secrets.swift in Sources */,
+				8500B667232A9B9500F6378F /* CreateProjectViewController.swift in Sources */,
 				543AB1102327F67A005B0E32 /* ViewController.swift in Sources */,
 				543AB136232A73B7005B0E32 /* NetworkHelper.swift in Sources */,
 				543AB138232A7414005B0E32 /* ProjectAPIClient.swift in Sources */,
